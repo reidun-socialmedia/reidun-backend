@@ -31,7 +31,7 @@
     "@adonisjs/validator": "latest",
     "@adonisjs/websocket": "^1.0.12",
     "adonis-acl": "^1.1.1",
-    "file-type": "latest",
+    "file-type": "16.5.4",
     "image-type": "^4.1.0",
     "minimist": "^1.2.5",
     "move-file": "^1.2.0",
